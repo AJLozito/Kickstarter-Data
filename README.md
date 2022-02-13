@@ -27,6 +27,7 @@ Outcomes_vs_Goals.png
 
 
 Results
+
      There are two conclusions I made about the Theater Outcomes by Launch Date. First, the overall success rate hovered around 61%, and only ranged from 49% to 67%. This means the variability by month was minimal. Secondly, I would launch my project in May because it has both the highest total number of success projects and the best propensity to achieve a successful outcome.
 
      One conclusion drawn from the Outcomes based on Goals is that a successful project is most likely going to have a fundraising goal of less than $5,000. This conclusion is validated by that range having both the highest success rate (about 67%) and the most voluminous amount of data to back up that percentage (this range represented about 69% of this subset of data).
